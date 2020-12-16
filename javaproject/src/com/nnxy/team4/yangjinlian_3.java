@@ -6,7 +6,7 @@ public class yangjinlian_3 {
 	private int id;
 	public int getid() {
 		
-		return id;
+		return id + 10;
 	}
 	
 	public void setID(int id) {
